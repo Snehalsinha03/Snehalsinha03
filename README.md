@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Snehal 👩‍💻</h1>
+**<h1 align="center">Hi 👋, I'm Snehal 👩‍💻</h1>
 <h3 align="center">Welcome to my digital cosmos – where code meets checkmate and headshots!</h3>
 
 <p align="center">
@@ -9,17 +9,17 @@
 <div align="center">
   <div style="background-color:#f1f1f1; padding: 20px; margin: 10px; border-radius: 10px;">
     <p align="center" style="font-style: italic;">"The disgust on their faces,<br>
-    To watch her stain.<br>
-    Her world so red,<br>
-    With so much pain.<br>
-    Oh what a shame!<br>
-    People looking at her with disdain.<br><br>
-    
-    Emotions she faked;<br>
-    Draped in wound, she escaped;<br>
-    Broken pieces of her heart she taped;<br>
-    The trauma she suffered was so well shaped;<br>
-    But was it her fault that she was raped."</p>
+      To watch her stain.<br>
+      Her world so red,<br>
+      With so much pain.<br>
+      Oh what a shame!<br>
+      People looking at her with disdain.<br><br>
+      
+      Emotions she faked;<br>
+      Draped in wound, she escaped;<br>
+      Broken pieces of her heart she taped;<br>
+      The trauma she suffered was so well shaped;<br>
+      But was it her fault that she was raped."</p>
   </div>
 </div>
 
@@ -88,4 +88,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
-
+**
