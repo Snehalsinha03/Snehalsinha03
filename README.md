@@ -4,15 +4,14 @@
 <div align="center">
   <div style="background-color:#f1f1f1; padding: 20px; margin: 10px; border-radius: 10px;">
     <p align="center" style="font-style: italic;">"The disgust on their faces,<br>
-          To watch her stain.<br>
+          To watch her stain;<br>
           Her world so red,<br>
-          With so much pain.<br>
+          With so much pain;<br>
           Oh what a shame!<br>
-          People looking at her with disdain.<br><br>
-          
-          Emotions she faked;<br>
+          People looking at her with disdain.<br>
+          Emotions she faked,<br>
           Draped in wound, she escaped;<br>
-          Broken pieces of her heart she taped;<br>
+          Broken pieces of her heart she taped,<br>
           The trauma she suffered was so well shaped;<br>
           But was it her fault that she was raped."</p>
   </div>
