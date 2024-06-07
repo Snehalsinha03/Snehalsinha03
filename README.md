@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Snehal 👩‍💻</h1>
-<h3 align="center">Welcome to my digital cosmos – where code meets checkmate and headshots!"</h3>
+<h3 align="center">Welcome to my digital cosmos – where code meets checkmate and headshots!</h3>
 
 <p align="center">
   <img src="https://github.com/path/to/your/chess/image.png" alt="Snehal's Chess Image" height="200" width="200"/>
@@ -7,8 +7,8 @@
 </p>
 
 <div align="center">
-  <div style="background-color:#f1f1f1; padding: 20px; margin: 10px;">
-    <p align="center">"The disgust on their faces,<br>
+  <div style="background-color:#f1f1f1; padding: 20px; margin: 10px; border-radius: 10px;">
+    <p align="center" style="font-style: italic;">"The disgust on their faces,<br>
     To watch her stain.<br>
     Her world so red,<br>
     With so much pain.<br>
