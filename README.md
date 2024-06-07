@@ -7,7 +7,8 @@
 
 - 📄 Know about my experiences [here](https://drive.google.com/drive/folders/1UNEA9Rmb6pS75M8C1g1n7_dDTpr8VXRV?usp=drive_link)
 
-- ⚡ Fun fact **Did you know? The longest possible chess game lasts 5,949 moves, longer than decoding my poetic musings, but not as unpredictable as a Saturday Night Valorant match!**
+- ⚡ Fun fact **Did you know? The longest possible chess game lasts 5,949 moves, longer than decoding my poetic musings, but not as unpredictable as a Saturday Night Valorant match!
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
