@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Snehal! 👨‍💻</h1>
+<h1 align="center">👋 Hey, I'm Snehal!👩‍💻</h1>
 <h3 align="center">Welcome to my digital cosmos, where code meets checkmate and headshots!</h3>
 
 <p align="center">
