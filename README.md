@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Snehal 👩‍💻</h1>
-<h3 align="center">Welcome to my digital cosmos – where code meets checkmate and headshots!"</h3>
+<h3 align="center">Welcome to my digital cosmos – where code meets checkmate and headshots!</h3>
 
 - 🌱 I’m currently learning **React.js, Angular, Flutter, and Appwrite**
 
@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [here](https://drive.google.com/drive/folders/1UNEA9Rmb6pS75M8C1g1n7_dDTpr8VXRV?usp=drive_link)
 
-- ⚡ Fun fact **Did you know? The longest possible chess game lasts 5,949 moves, longer than decoding my poetic musings, but not as unpredictable as a Saturday Night Valorant match!
+- ⚡ Fun fact: Did you know? The longest possible chess game lasts 5,949 moves, longer than decoding my poetic musings, but not as unpredictable as a Saturday Night Valorant match!
 <img align="right" height="150" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif"  />
 
 <h3 align="left">Connect with me:</h3>
